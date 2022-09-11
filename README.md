@@ -3,12 +3,14 @@
 My name is **Marcos González**, a Frontend Developer from **Spain**
 
 ```js
-  const name = "Marcos"
-  const hobbies = ["code","cook","read","travel"]
+  const marcos = {
+    "name": "Marcos",
+    "hobbies": ["code","cook","read","travel"]
+  }
   
   const presentation = () => {
-  console.log(`Hi! I'm {name}, and my hobbies are:`)
-    hobbies.forEach((e) => {
+  console.log(`Hi! I'm ${marcos.name}, and my hobbies are:`)
+    marcos.hobbies.forEach((e) => {
       console.log(e)
     }
   }
