@@ -1,4 +1,4 @@
-# Welcome to my GitHub page!
+# 👋 Welcome to my GitHub page!
 
 My name is **Marcos González**, a Frontend Developer from **Spain**
 
@@ -31,6 +31,7 @@ My name is **Marcos González**, a Frontend Developer from **Spain**
 > [Twitter](https://twitter.com/ImLecus)   
 >
 > [Email](mailto:marcosgf2005@gmail.com)
-
+>
+> [LinkedIn](https://linkedin.com/in/marcosgf)
 
 * See my [portfolio](https://marcosgf.netlify.app) too!
