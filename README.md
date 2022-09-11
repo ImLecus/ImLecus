@@ -33,4 +33,4 @@ My name is **Marcos González**, a Frontend Developer from **Spain**
 > [Email](mailto:marcosgf2005@gmail.com)
 
 
-* See my [portfolio](https://marcosgf.vercel.app) too!
+* See my [portfolio](https://marcosgf.netlify.app) too!
