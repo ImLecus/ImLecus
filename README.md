@@ -1,6 +1,6 @@
 # 👋 Welcome to my GitHub page!
 
-My name is **Marcos González**, a Frontend Developer from **Spain**
+My name is **Marcos González**, a Frontend Developer from **Spain** <img src="https://imgs.search.brave.com/7wLKLJlgmLWB0sUr_vjwqUoUl5a6R2sd6-koX2Ss8zo/rs:fit:512:512:1/g:ce/aHR0cHM6Ly9ob3Rl/bW9qaS5jb20vaW1h/Z2VzL2RsLzEvZmxh/Zy1vZi1zcGFpbi1l/bW9qaS1ieS10d2l0/dGVyLnBuZw" height="20"/>
 
 ```js
   const marcos = {
