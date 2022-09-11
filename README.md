@@ -2,6 +2,18 @@
 
 My name is **Marcos González**, a Frontend Developer from **Spain**
 
+```js
+  const name = "Marcos"
+  const hobbies = ["code","cook","read","travel"]
+  
+  const presentation = () => {
+  console.log(`Hi! I'm {name}, and my hobbies are:`)
+    hobbies.forEach((e) => {
+      console.log(e)
+    }
+  }
+```
+
 ## 🥽 Technologies 
 | Frontend | Backend |
 |----------|---------|
@@ -10,3 +22,15 @@ My name is **Marcos González**, a Frontend Developer from **Spain**
 | Dev Tools |
 |-----------|
 |<img src="https://img.shields.io/badge/visual studio code-42abf1?style=for-the-badge&logo=visualstudiocode&logoColor=white"/> <img src="https://img.shields.io/badge/git-f15233?style=for-the-badge&logo=git&logoColor=white"/>|
+
+## 👀 See more
+
+* My social media:
+
+
+> [Twitter](https://twitter.com/ImLecus)   
+>
+> [Email](mailto:marcosgf2005@gmail.com)
+
+
+* See my [portfolio](https://marcosgf.vercel.app) too!
