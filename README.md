@@ -10,7 +10,7 @@ My name is **Marcos González**, a Frontend Developer from **Spain** <img src="h
   
   const presentation = () => {
     console.log(`Hi! I'm ${marcos.name}, and my hobbies are:`)
-    marcos.hobbies.forEach((e) => {
+    marcos.hobbies.forEach(e => {
       console.log(e)
     }
   }
