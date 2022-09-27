@@ -25,6 +25,10 @@ My name is **Marcos González**, a Frontend Developer from **Spain** <img src="h
 |-----------|
 |<img src="https://img.shields.io/badge/visual studio code-42abf1?style=for-the-badge&logo=visualstudiocode&logoColor=white"/> <img src="https://img.shields.io/badge/git-f15233?style=for-the-badge&logo=git&logoColor=white"/>|
 
+## 💻 My current project
+
+Actually i'm developing Astra, a CSS framework with the objective of making easier and faster to apply styles to your projects. The repository is public and it has an alpha version that you can test in your project.
+
 ## 👀 See more
 
 * My social media:
