@@ -23,7 +23,7 @@ My name is **Marcos González**, a Frontend Developer from **Spain** <img src="h
 
 | Dev Tools |
 |-----------|
-|<a href="#"><img src="https://img.shields.io/badge/visual studio code-42abf1?style=for-the-badge&logo=visualstudiocode&logoColor=white"/></a> <a href="#"><img src="https://img.shields.io/badge/git-f15233?style=for-the-badge&logo=git&logoColor=white"/></a>|
+|<a href="#"><img src="https://img.shields.io/badge/visual studio code-42abf1?style=for-the-badge&logo=visualstudiocode&logoColor=white"/></a> <a href="#"><img src="https://img.shields.io/badge/git-f15233?style=for-the-badge&logo=git&logoColor=white"/></a> <a href="#"><img src="https://img.shields.io/badge/npm-cc0000?style=for-the-badge&logo=npm&logoColor=white"/></a>|
 
 ## 💻 My current project
 
