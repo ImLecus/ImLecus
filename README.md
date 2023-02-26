@@ -27,9 +27,11 @@ import React from "react"
 |-----------|
 |<a href="#"><img src="https://img.shields.io/badge/visual studio code-42abf1?style=for-the-badge&logo=visualstudiocode&logoColor=white"/></a> <a href="#"><img src="https://img.shields.io/badge/git-f15233?style=for-the-badge&logo=git&logoColor=white"/></a> <a href="#"><img src="https://img.shields.io/badge/npm-cc0000?style=for-the-badge&logo=npm&logoColor=white"/></a>|
 
-## 💻 My current project
+## 💻 My current projects
 
-Actually i'm developing Astra, a CSS framework with the objective of making easier and faster to apply styles to your projects. The repository is public and it has an alpha version that you can test in your project.
+I'm working in a productivity mobile application called Reactivity. I'm currently using React Native for the frontend, Firebase and GraphQL.
+
+Additionally, i'm developing Astra, a CSS framework with the objective of making easier and faster to apply styles to your projects. The repository is public and it has an alpha version that you can test in your project.
 
 ## 👀 See more
 
