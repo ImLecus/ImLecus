@@ -42,4 +42,5 @@ Actually i'm developing Astra, a CSS framework with the objective of making easi
 
 * See my [portfolio](https://marcosgf.netlify.app) too!
 
-[![ImLecus's GitHub stats](https://github-readme-stats.vercel.app/api?username=imlecus&count_private=true&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+[![ImLecus's GitHub stats](https://github-readme-stats.vercel.app/api?username=imlecus&count_private=true&show_icons=true&theme=merko&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imlecus&layout=compact&theme=merko&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
