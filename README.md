@@ -7,7 +7,7 @@ import React from "react"
 
  const me = {
    "name": "Marcos",
-   "country: "Spain"
+   "country": "Spain"
  }
   
   const Presentation = () => (
