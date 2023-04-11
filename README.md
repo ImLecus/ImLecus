@@ -11,11 +11,11 @@ import React from "react"
  }
   
   const Presentation = () => (
-    <div>
-      <h1>Hi! I'm {me.name}.</h1>
-      <h3>A Frontend Developer from {me.country}</h3>
-    </div>
-  )
+   <div>
+     <h1>Hi! I'm {me.name}.</h1>
+     <h3>A Frontend Developer from {me.country}</h3>
+   </div>
+ )
 ```
 
 ## 🥽 Technologies 
@@ -42,5 +42,5 @@ I am currently developing a productivity and time management mobile app called O
 
 * See my [portfolio](https://marcosgf.netlify.app) too!
 
-[![ImLecus's GitHub stats](https://github-readme-stats.vercel.app/api?username=imlecus&count_private=true&show_icons=true&theme=merko&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imlecus&layout=compact&theme=merko&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![ImLecus's GitHub stats](https://github-readme-stats.vercel.app/api?username=imlecus&count_private=true&show_icons=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imlecus&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
