@@ -29,7 +29,7 @@ import React from "react"
 
 ## 💻 My current projects
 
-I am currently developing a productivity and time management mobile app called Outnote.
+I am currently developing a productivity and time management mobile app called Outnote. You can find the public GitHub repository to see the source code. 
 
 ## 👀 See more
 
