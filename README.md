@@ -5,17 +5,18 @@ My name is **Marcos González**, a Frontend Developer from **Spain** <img src="h
 ```js
 import React from "react"
 
- const me = {
-   "name": "Marcos",
-   "country": "Spain"
- }
+const me = {
+  "name": "Marcos",
+  "country": "Spain"
+}
   
-  const Presentation = () => (
-   <div>
-     <h1>Hi! I'm {me.name}.</h1>
-     <h3>A Frontend Developer from {me.country}</h3>
-   </div>
- )
+const Presentation = () => (
+  <div>
+    <h1>Hi! I'm {me.name}.</h1>
+    <h3>A Frontend Developer from {me.country}</h3>
+    <p>I like to create things by coding.</p>
+  </div>
+)
 ```
 
 ## 🥽 Technologies 
