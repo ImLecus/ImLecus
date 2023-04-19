@@ -30,7 +30,7 @@ const Presentation = () => (
 
 ## 💻 My current projects
 
-I am currently developing a productivity and time management mobile app called Outnote. You can find the public GitHub repository to see the source code. 
+I am currently developing a productivity and time management mobile app called Outnote. You can find the public GitHub repository to see the source code. I'm also developing a CSS framework using Sass. The GitHub repository and more information will be revealed soon.
 
 ## 👀 See more
 
