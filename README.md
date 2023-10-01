@@ -45,3 +45,5 @@ I am currently developing a productivity and time management mobile app called O
 
 [![ImLecus's GitHub stats](https://github-readme-stats.vercel.app/api?username=imlecus&count_private=true&show_icons=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imlecus&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ImLecus&hide_border=true)](https://git.io/streak-stats)
