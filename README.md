@@ -1,6 +1,6 @@
 # 👋 Welcome to my GitHub page!
 
-My name is **Marcos González**, a Frontend Developer from **Spain** <img src="https://imgs.search.brave.com/7wLKLJlgmLWB0sUr_vjwqUoUl5a6R2sd6-koX2Ss8zo/rs:fit:512:512:1/g:ce/aHR0cHM6Ly9ob3Rl/bW9qaS5jb20vaW1h/Z2VzL2RsLzEvZmxh/Zy1vZi1zcGFpbi1l/bW9qaS1ieS10d2l0/dGVyLnBuZw" height="20"/>
+My name is **Marcos González**, a Software Developer from **Spain** <img src="https://imgs.search.brave.com/7wLKLJlgmLWB0sUr_vjwqUoUl5a6R2sd6-koX2Ss8zo/rs:fit:512:512:1/g:ce/aHR0cHM6Ly9ob3Rl/bW9qaS5jb20vaW1h/Z2VzL2RsLzEvZmxh/Zy1vZi1zcGFpbi1l/bW9qaS1ieS10d2l0/dGVyLnBuZw" height="20"/>
 
 ```js
 import React from "react"
@@ -30,7 +30,7 @@ const Presentation = () => (
 
 ## 💻 My current projects
 
-I am currently developing a productivity and time management mobile app called Outnote. You can find the public GitHub repository to see the source code. I'm also developing a CSS framework using Sass. The GitHub repository and more information will be revealed soon.
+I am currently developing my own programming language, [Quarzum](https://github.com/ImLecus/Quarzum). It is currently in developement, but feel free to explore the repo and contribute!
 
 ## 👀 See more
 
