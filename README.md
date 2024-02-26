@@ -1,49 +1,17 @@
-# 👋 Welcome to my GitHub page!
+<h1 align="center">Welcome to my GitHub page! 👋</h1>
 
-My name is **Marcos González**, a Software Developer from **Spain** <img src="https://imgs.search.brave.com/7wLKLJlgmLWB0sUr_vjwqUoUl5a6R2sd6-koX2Ss8zo/rs:fit:512:512:1/g:ce/aHR0cHM6Ly9ob3Rl/bW9qaS5jb20vaW1h/Z2VzL2RsLzEvZmxh/Zy1vZi1zcGFpbi1l/bW9qaS1ieS10d2l0/dGVyLnBuZw" height="20"/>
-
-```js
-import React from "react"
-
-const me = {
-  "name": "Marcos",
-  "country": "Spain"
-}
-  
-const Presentation = () => (
-  <div>
-    <h1>Hi! I'm {me.name}.</h1>
-    <h3>A Frontend Developer from {me.country}</h3>
-    <p>I like to create things by coding.</p>
-  </div>
-)
-```
-
-## 🥽 Technologies 
-| Basic | Framework |Preprocessors|
-|-------|-----------|---------|
-| <a href="#"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> </a><a href="#"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/></a><a href="#"> <img src="https://img.shields.io/badge/JavaScript-373737?style=for-the-badge&logo=javascript&logoColor=F7DC6F"/></a>| <img src="https://img.shields.io/badge/tailwind-17b9b8?style=for-the-badge&logo=tailwindcss&logoColor=white"/></a><a href="#"> <img src="https://img.shields.io/badge/bootstrap-7431f9?style=for-the-badge&logo=bootstrap&logoColor=white"/></a> <a href="#"> <img src="https://img.shields.io/badge/react-16181d?style=for-the-badge&logo=react&logoColor=#61dafb"/></a>|<a href="#"> <img src="https://img.shields.io/badge/sass-cf649a?style=for-the-badge&logo=sass&logoColor=white"/></a><a href="#"> <a href="#"> <img src="https://img.shields.io/badge/pug-e9b652?style=for-the-badge&logo=pug&logoColor=a86454"/></a>
-
-| Dev Tools |
-|-----------|
-|<a href="#"><img src="https://img.shields.io/badge/vs code-42abf1?style=for-the-badge&logo=visualstudiocode&logoColor=white"/></a> <a href="#"><img src="https://img.shields.io/badge/git-f15233?style=for-the-badge&logo=git&logoColor=white"/></a> <a href="#"><img src="https://img.shields.io/badge/npm-cc0000?style=for-the-badge&logo=npm&logoColor=white"/></a> <a href="#"><img src="https://img.shields.io/badge/expo-d9dadf?style=for-the-badge&logo=expo&logoColor=black"/></a>|
-
-## 💻 My current projects
-
-I am currently developing my own programming language, [Quarzum](https://github.com/ImLecus/Quarzum). It is currently in developement, but feel free to explore the repo and contribute!
-
-## 👀 See more
-
-* My social media:
+### My name is Marcos González, a software developer from Spain 🇪🇸
 
 
-> [Email](mailto:marcosgf2005@gmail.com)
->
-> [LinkedIn](https://linkedin.com/in/marcosgf)
+* 📚 I'm currently studying at University of Alcalá, Madrid.
+* 👾 I like to live new adventures and coding.
+* 💻 My current project is Retrogochi.
 
-* See my [portfolio](https://marcosgf.netlify.app) too!
+[![ImLecus's GitHub | Stats](https://stats.quine.sh/ImLecus/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=ImLecus)
+[![ImLecus's Stack Overflow | Stats](https://stats.quine.sh/ImLecus/stack-overflow?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=ImLecus)
 
-[![ImLecus's GitHub stats](https://github-readme-stats.vercel.app/api?username=imlecus&count_private=true&show_icons=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imlecus&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+### Languages and technologies
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ImLecus&hide_border=true)](https://git.io/streak-stats)
+<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
+
+[![ImLecus's GitHub | Languages Over Time](https://stats.quine.sh/ImLecus/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=ImLecus)
