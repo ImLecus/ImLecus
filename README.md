@@ -1,17 +1,35 @@
-<h1 align="center">Welcome to my GitHub page! 👋</h1>
+<h1 align="center">Welcome to my GitHub page! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 ### My name is Marcos González, a software developer from Spain 🇪🇸
 
 
-* 📚 I'm currently studying at University of Alcalá, Madrid.
-* 👾 I like to live new adventures and coding.
-* 💻 My current project is Retrogochi.
+<br>
 
-[![ImLecus's GitHub | Stats](https://stats.quine.sh/ImLecus/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=ImLecus)
-[![ImLecus's Stack Overflow | Stats](https://stats.quine.sh/ImLecus/stack-overflow?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=ImLecus)
+- 📚 I'm currently studying at University of Alcalá, Madrid.
+  
+- 👾 I like to live new adventures and coding.
 
-### Languages and technologies
+- 🌱 I’m currently learning **about software engineering**
+  
+- 💻 My current project is Retrogochi.
 
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
+- 📫 Feel free to reach me out **marcosgf.dev@gmail.com**
+<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-[![ImLecus's GitHub | Languages Over Time](https://stats.quine.sh/ImLecus/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=ImLecus)
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,cpp,github,java,nodejs,bash,php,py,git&perline=14" />
+
+## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" height="25"><b> My GitHub stats</b>
+
+<div style="display:flex">
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=ImLecus&show_icons=true&count_private=true&hide_border=true&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImLecus&hide_border=true&theme=dark" />  
+</div>
+
+
+<br/>  
+<br/>  
