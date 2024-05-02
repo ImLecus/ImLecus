@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **about software engineering**
   
-- 💻 My current project is Retrogochi.
+- 💻 My current project is **Quarzum**, my own programming language.
 
 - 📫 Feel free to reach me out **marcosgf.dev@gmail.com**
 <br>
