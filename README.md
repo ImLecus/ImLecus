@@ -5,7 +5,7 @@
 
 <br>
 
-- 📚 I'm currently studying at University of Alcalá, Madrid.
+- 📚 I'm currently studying at University of Alicante.
   
 - 👾 I like to live new adventures and coding.
 
