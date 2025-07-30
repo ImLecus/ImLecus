@@ -12,8 +12,6 @@
 - 🌱 I’m currently learning **about software engineering**
   
 - 💻 My current project is **Quarzum**, my own programming language.
-
-- 📫 Feel free to reach me out **marcosgf.dev@gmail.com**
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
