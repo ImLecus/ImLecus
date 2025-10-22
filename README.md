@@ -27,6 +27,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImLecus&hide_border=true&theme=dark" />  
 </div>
 
+## <b>Certifications</b>
+
+<img height=250 src="https://camo.githubusercontent.com/0057e78243a8f152d31ebc69152375762cb4ec29815808f949fb2713ab873378/68747470733a2f2f696d616765732e637265646c792e636f6d2f696d616765732f30303633346638322d623037662d346262642d613662622d3533646533393766633361362f696d6167652e706e67" 
+/>
 
 <br/>  
 <br/>  
